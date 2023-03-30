@@ -10,7 +10,7 @@ Este projeto é uma API RESTful construída com Node.js, Express e MongoDB. Ele 
 Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 APIs REST de um CRUD básico de filme. Os parâmetros a serem salvos devem ser decididos por vocês (deve conter no mínimo 4 parâmetros, como por exemplo: nome, produtora, atores, ano).
 
 
-# `Configuração` ⚙️
+# Configuração ⚙️
 
 Antes de executar o projeto, você precisa ter o Node.js e o MongoDB instalados em sua máquina. Em seguida, siga os passos abaixo:
 
