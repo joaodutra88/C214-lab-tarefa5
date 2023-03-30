@@ -1,4 +1,4 @@
-# CRUD básico de filme
+# CRUD básico de filme 🎥
 
 ![Repo Size](https://img.shields.io/github/repo-size/joaodutra88/C214-lab-tarefa5)
 ![Linguagens usadas](https://img.shields.io/github/languages/count/joaodutra88/C214-lab-tarefa5)
@@ -6,11 +6,12 @@
 ![Última atualização](https://img.shields.io/github/last-commit/joaodutra88/C214-lab-tarefa5)
 
 Este projeto é uma API RESTful construída com Node.js, Express e MongoDB. Ele permite a criação, leitura, atualização e exclusão de informações sobre filmes.
-#  Requisitos
+#  Requisitos 📜
 Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 APIs REST de um CRUD básico de filme. Os parâmetros a serem salvos devem ser decididos por vocês (deve conter no mínimo 4 parâmetros, como por exemplo: nome, produtora, atores, ano).
 
 
-Configuração
+# `Configuração` ⚙️
+
 Antes de executar o projeto, você precisa ter o Node.js e o MongoDB instalados em sua máquina. Em seguida, siga os passos abaixo:
 
 Clone este repositório:
@@ -41,7 +42,7 @@ npm start
 
 O servidor agora deve estar rodando em `http://localhost:<sua-porta>.`
 
-# Endpoints
+# Endpoints 📊
 
 Os seguintes endpoints estão disponíveis na API:
 
