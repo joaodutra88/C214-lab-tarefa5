@@ -16,7 +16,7 @@ Antes de executar o projeto, você precisa ter o Node.js e o MongoDB instalados 
 
 Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/joaodutra88/C214-lab-tarefa5
 ```
 
 Navegue até o diretório raiz do projeto:
